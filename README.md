@@ -20,6 +20,3 @@ click [here](https://google.com)
 
 ![imag  hfgf hghghg](./vs_image.svg)
 
-jira 123 
-this is a fix to learn how to do branches 
-hhhh
